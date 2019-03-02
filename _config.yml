@@ -1,7 +1,7 @@
 # Site settings
 title: Rohit
 email: rohittembhare1@gmail.com
-url: https://example.github.io
+url: "my_site"
 description: "Rohit Tembhare is studying Aerospace Engineering at IIT Bombay. "
 keywords: "my site"
 skills: "Aeromodeller-Coding Enthusiast"
@@ -21,7 +21,7 @@ bing_verify:
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+#disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
